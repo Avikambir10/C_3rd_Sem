@@ -1,4 +1,4 @@
-//How to count number of words in c
+//How to count number of words from a file using c
 #include<stdio.h>
 int main(){
     FILE * ptr = fopen("handling.txt","r");
